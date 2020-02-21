@@ -1,5 +1,7 @@
 {
   "name": "qrGuard",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
